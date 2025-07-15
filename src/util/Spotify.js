@@ -1,6 +1,6 @@
 // util/Spotify.js
-const clientId = "e8fb71e5b8094842829c562548086649";
-const redirectUri = "https://kushjamming-app.surge.sh";
+const clientId = "4eff695c1ca247ad82a2958e84838651";
+const redirectUri = "https://sharmakush91.github.io/Jamming/";
 const scope = "playlist-modify-private";
 const accessTokenKey = "access_token";
 let accessToken;
